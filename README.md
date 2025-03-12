@@ -1,11 +1,8 @@
 # Bulk-WhatsApp-Number-Checker
-Bulk WhatsApp Number Checker/Lookup/Filter
 
-# WhatsApp Number Checker API Services
+A comprehensive WhatsApp number analysis platform providing both individual and bulk verification services. Our bulk processing system offers three specialized APIs (Simple, Details, and Deep API), complemented by various real-time checking solutions for different business needs.
 
-A professional WhatsApp number verification and analysis platform providing three tiers of API services.
-
-## 🚀 API Service Tiers
+## 🚀 WhatsApp Number Bulk Checker API Service Tiers
 
 ### 1. Simple API
 - ✅ Basic WhatsApp account status verification
@@ -42,7 +39,7 @@ A professional WhatsApp number verification and analysis platform providing thre
 ## 💻 Implementation Example
 
 ````bash
-curl --location 'https://api.ekycpro.com/wa/api/{tier}/tasks' \
+curl --location 'https://api.checknumber.ai/wa/api/{tier}/tasks' \
 --header 'X-API-Key: API-KEY' \
 --form 'user_id="USER_ID"' \
 --form 'file=@"input.txt"'
