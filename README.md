@@ -14,7 +14,7 @@ A comprehensive WhatsApp number analysis platform providing both individual and 
 - ✅ Medium-depth user information
 - 📊 Includes account status, signatures, last seen
 - 🎯 Ideal for CRM enhancement
-- 💵 Moderate pricing tier
+- 💵 Price: $2 USD per 10,000 numbers
 
 ### 3. Deep API
 - ✅ Most comprehensive data analysis
@@ -24,7 +24,7 @@ A comprehensive WhatsApp number analysis platform providing both individual and 
   - Hair and skin color detection
   - Account verification status
   - Profile attributes
-- 💵 Premium pricing tier
+- 💵 Price: $6 USD per 10,000 numbers
 - 🎯 Suitable for advanced market segmentation
 
 ## ⭐ Key Features
