@@ -1,8 +1,8 @@
 # Bulk-WhatsApp-Number-Checker
 
-A comprehensive WhatsApp number analysis platform providing both individual and bulk verification services. Our bulk processing system offers three specialized APIs (Simple, Details, and Deep API), complemented by various real-time checking solutions for different business needs.
+A comprehensive WhatsApp number check platform providing both individual and bulk verification services. Our bulk processing system offers three specialized APIs (Simple, Details, and Deep API), complemented by various real-time checking solutions for different business needs.
 
-## 🚀 WhatsApp Number Bulk Checker API Service Tiers
+## 🚀 [WhatsApp Number Bulk Checker](https://checknumber.ai) API Service Tiers
 
 ### 1. Simple API
 - ✅ Basic WhatsApp account status verification
