@@ -4,19 +4,19 @@ A comprehensive WhatsApp number check platform providing both individual and bul
 
 ## 🚀 [WhatsApp Number Bulk Checker](https://checknumber.ai) API Service Tiers
 
-### 1. Simple API
+### 1. [WhatsApp Number Bulk Checker Simple API](https://checknumber.ai/blog/whatsapp-bulk-number-checker-simple-api)
 - ✅ Basic WhatsApp account status verification
 - 💰 Most cost-effective solution
 - 🎯 Perfect for market research and contact validation
 - 💵 Price: $1 USD per 10,000 numbers
 
-### 2. Details API  
+### 2. [WhatsApp Number Bulk Checker Details API](https://checknumber.ai/blog/whatsapp-bulk-number-checker-details-api)
 - ✅ Medium-depth user information
 - 📊 Includes account status, signatures, last seen
 - 🎯 Ideal for CRM enhancement
 - 💵 Price: $2 USD per 10,000 numbers
 
-### 3. Deep API
+### 3. [WhatsApp Number Bulk Checker Deep API](https://checknumber.ai/blog/whatsapp-bulk-number-checker-deep-api)
 - ✅ Most comprehensive data analysis
 - 📊 Features:
   - Demographic analysis (age, gender)
@@ -56,4 +56,4 @@ For pricing and API access:
 - 📱 WhatsApp: (+1) 725-310-0591
 
 ---
-*Last updated: 2025-03-12*
+*Last updated: 2025-05-02*
