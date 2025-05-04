@@ -39,7 +39,7 @@ A comprehensive WhatsApp number check platform providing both individual and bul
 ## 💻 Implementation Example
 
 ````bash
-curl --location 'https://api.checknumber.ai/wa/api/{tier}/tasks' \
+curl --location 'https://api.ekycpro.com/wa/api/{tier}/tasks' \
 --header 'X-API-Key: API-KEY' \
 --form 'user_id="USER_ID"' \
 --form 'file=@"input.txt"'
